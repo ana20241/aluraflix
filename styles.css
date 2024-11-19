@@ -7,4 +7,9 @@ body{
 section{
 border:solid;
 
+.categoria-vídeos{
+display: flex;
+overflow-x: auto;
+gap: 10px;
 
+}
