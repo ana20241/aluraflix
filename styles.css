@@ -17,5 +17,10 @@ gap: 10px;
 .categoria-vídeos {
 opacity: 0.5;
 
+}
+
+.categoria-vídeos.houver{
+opacity: 1,0;
+border: 1px solid
 
 }
